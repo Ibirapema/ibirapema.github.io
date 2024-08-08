@@ -1,6 +1,3 @@
-
-# ibirapema.github.io
-
 <div id="sidebar">
   <div id="outline">
     <span style="font-size: 36pt;">
@@ -218,7 +215,7 @@
         </div>
         <div class="t m0 x1 h2 y2f ff2 fs0 fc0 sc0 ls4 ws1">
           <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>iacy.org ©</strong>
+            <strong>iacy.org ©     iacy@iacy.org</strong>
           </span>
         </div>
       </div>
