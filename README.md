@@ -4,7 +4,7 @@
       <span style="font-family: 'courier new', courier, monospace;">&nbsp; &nbsp; 
         <strong>
           <span style="font-size: 12pt;">iacy
-            <span class="ls3">-</span>ANTHROPOPHAGIC INTELLIGENCE AND CYBERNETICS
+            <span class="ls3">-</span> ANTHROPOPHAGIC INTELLIGENCE AND CYBERNETICS
           </span>
         </strong>
       </span>
