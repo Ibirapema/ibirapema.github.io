@@ -45,7 +45,7 @@
     <img src="https://share1.cloudhq-mkt3.net/1ab8a7184c1c0d.png" alt="" width="431" height="289"> 
     <br>
   </strong> 
-  <span style="font-family: courier new, courier, monospace; font-size: 8pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <span style="font-family: courier new, courier, monospace; font-size: 8pt;">
     <strong>
       <span style="font-family: courier new, courier, monospace;">
         <sup>1</sup>
@@ -59,7 +59,7 @@
     <br>
     <span style="font-family: courier new, courier, monospace;">
       <span style="font-size: 8pt;">iacy.org ©&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iacy@iacy.org</span>
-    </span>
+    </span> 
     <br>
   </strong>
 </div>
