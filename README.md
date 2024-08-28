@@ -59,16 +59,6 @@
             <strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DOWN WITH DATA COLONIALISM</strong>
           </span>
         </div>
-        <div class="t m0 x1 h3 yf ff2 fs0 fc0 sc0 ls3 ws1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-          <strong style="font-family: 'courier new', courier, monospace; font-size: 10pt;">iacy.org ©     iacy@iacy.org</strong>
-        </div>
-      </div>
-    </div>
-    <div class="pi" data-data="{&quot;ctm&quot;:[1.000000,0.000000,0.000000,1.000000,0.000000,0.000000]}">
-      <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-        <strong>&nbsp;</strong>
-      </span>
-    </div>
   </div>
   <div id="pf2" class="pf w0 h0" data-page-no="2">
     <div class="pc pc2 w0 h0">
@@ -216,15 +206,4 @@
         <div class="t m0 x1 h2 y2f ff2 fs0 fc0 sc0 ls4 ws1">
           <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
             <strong>iacy.org ©     iacy@iacy.org</strong>
-          </span>
         </div>
-      </div>
-    </div>
-    <div class="pi" data-data="{&quot;ctm&quot;:[1.000000,0.000000,0.000000,1.000000,0.000000,0.000000]}">
-      <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-        <strong>&nbsp;</strong>
-      </span>
-    </div>
-  </div>
-</div>
-<div class="loading-indicator">&nbsp;</div>
