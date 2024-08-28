@@ -1,230 +1,76 @@
-<div id="sidebar">
-  <div id="outline">
-    <span style="font-size: 36pt;">
-      <span style="font-family: 'courier new', courier, monospace;">&nbsp; &nbsp; 
-        <strong>
-          <span style="font-size: 12pt;">iacy
-            <span class="ls3">-</span> ANTHROPOPHAGIC INTELLIGENCE AND CYBERNETICS
-          </span>
-        </strong>
-      </span>
-    </span>
-  </div>
-</div>
-<div id="page-container">
-  <div id="pf1" class="pf w0 h0" data-page-no="1">
-    <div class="pc pc1 w0 h0">
+<style>/*! 
+ * Base CSS for pdf2htmlEX
+ * Copyright 2012,2013 Lu Wang <coolwanglu@gmail.com> 
+ * https://github.com/pdf2htmlEX/pdf2htmlEX/blob/master/share/LICENSE
+ */#sidebar{position:absolute;top:0;left:0;bottom:0;width:250px;padding:0;margin:0;overflow:auto}#page-container{position:absolute;top:0;left:0;margin:0;padding:0;border:0}@media screen{#sidebar.opened+#page-container{left:250px}#page-container{bottom:0;right:0;overflow:auto}.loading-indicator{display:none}.loading-indicator.active{display:block;position:absolute;width:64px;height:64px;top:50%;left:50%;margin-top:-32px;margin-left:-32px}.loading-indicator img{position:absolute;top:0;left:0;bottom:0;right:0}}@media print{@page{margin:0}html{margin:0}body{margin:0;-webkit-print-color-adjust:exact}#sidebar{display:none}#page-container{width:auto;height:auto;overflow:visible;background-color:transparent}.d{display:none}}.pf{position:relative;background-color:white;overflow:hidden;margin:0;border:0}.pc{position:absolute;border:0;padding:0;margin:0;top:0;left:0;width:100%;height:100%;overflow:hidden;display:block;transform-origin:0 0;-ms-transform-origin:0 0;-webkit-transform-origin:0 0}.pc.opened{display:block}.bf{position:absolute;border:0;margin:0;top:0;bottom:0;width:100%;height:100%;-ms-user-select:none;-moz-user-select:none;-webkit-user-select:none;user-select:none}.bi{position:absolute;border:0;margin:0;-ms-user-select:none;-moz-user-select:none;-webkit-user-select:none;user-select:none}@media print{.pf{margin:0;box-shadow:none;page-break-after:always;page-break-inside:avoid}@-moz-document url-prefix(){.pf{overflow:visible;border:1px solid #fff}.pc{overflow:visible}}}.c{position:absolute;border:0;padding:0;margin:0;overflow:hidden;display:block}.t{position:absolute;white-space:pre;font-size:1px;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%;unicode-bidi:bidi-override;-moz-font-feature-settings:"liga" 0}.t:after{content:''}.t:before{content:'';display:inline-block}.t span{position:relative;unicode-bidi:bidi-override}._{display:inline-block;color:transparent;z-index:-1}::selection{background:rgba(127,255,255,0.4)}::-moz-selection{background:rgba(127,255,255,0.4)}.pi{display:none}.d{position:absolute;transform-origin:0 100%;-ms-transform-origin:0 100%;-webkit-transform-origin:0 100%}.it{border:0;background-color:rgba(255,255,255,0.0)}.ir:hover{cursor:pointer}</style>
+<span style="font-size: 12pt;">
+  <strong>
+    <span style="font-family: courier new, courier, monospace;">Anthropophagy Today</span>
+  </strong>
+</span>
+<div style="text-align: center;">
+  <strong>
+    <span style="font-family: courier new, courier, monospace;">
       <br>
-      <div class="c x0 y1 w2 h0">
-        <div class="t m0 x3 h3 y4 ff2 fs0 fc0 sc0 ls3 ws1">
-          <span style="font-size: 36pt; font-family: 'courier new', courier, monospace;">
-            <strong>
-              <span class="ff4 sc1 ls2" style="font-family: 'courier new', courier, monospace;">
-                <span style="font-size: 36pt;">
-                  <span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;“I am only concerned with what is not mine.” (O.A, 1928)</span>
-                </span>
-              </span>
-            </strong>
-          </span>
-          <span style="font-family: 'courier new', courier, monospace; font-size: 36pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
-          <span style="font-size: 36pt; font-family: 'courier new', courier, monospace;">
-            <strong>
-              <span class="ff4 sc1 ls2">
-                <img src="https://share1.cloudhq-mkt3.net/f8d67034085969.png" alt="" width="802" height="344">
-              </span>
-            </strong>
-          </span>
-        </div>
-        <div class="t m0 x5 h5 ya ff1 fs2 fc0 sc0 ls1 ws1" style="text-align: left;">
-          <span style="font-size: 12pt; font-family: 'courier new', courier, monospace;">
-            <strong>
-              <span class="ff4 sc1 ls2">
-                <br>
-              </span>
-            </strong>
-          </span>
-        </div>
-        <div class="t m0 x1 h3 ye ff2 fs0 fc0 sc0 ls4 ws1">
-          <span style="font-size: 12pt; font-family: 'courier new', courier, monospace;">
-            <strong>
-              <span style="letter-spacing: -0.096px; -webkit-text-stroke: 0.015em transparent;">&nbsp; &nbsp; &nbsp; &nbsp; “Down with Memory as a source of custom.The renewal of personal experience.”(O.A.,1928)</span>
-            </strong>
-          </span> 
-          <br>
-          <br>
-          <br>
-          <br>
-          <br>
-          <span style="font-size: 12pt; font-family: 'courier new', courier, monospace;">
-            <strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DOWN WITH DATA COLONIALISM</strong>
-          </span>
-        </div>
-        <div class="t m0 x1 h3 yf ff2 fs0 fc0 sc0 ls3 ws1">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-          <strong style="font-family: 'courier new', courier, monospace; font-size: 10pt;">iacy.org ©     iacy@iacy.org</strong>
-        </div>
-      </div>
-    </div>
-    <div class="pi" data-data="{&quot;ctm&quot;:[1.000000,0.000000,0.000000,1.000000,0.000000,0.000000]}">
-      <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-        <strong>&nbsp;</strong>
-      </span>
-    </div>
-  </div>
-  <div id="pf2" class="pf w0 h0" data-page-no="2">
-    <div class="pc pc2 w0 h0">
-      <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-        <strong>
-          <br>
-          <br>
-          <br>
-          <br>The Western historical trajectory is the history of the rational telos of the civilizing mission in the
-        </strong>
-      </span>
-      <div class="c x0 y1 w2 h0">
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>service of productivity and commodification. The actual cultural landscape and algorithmic culture</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>(cybernetics/AI) do not escape this situation of being trapped in the Eurocentric point of view.</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>Decolonization is not only the search for new genealogies of knowledge construction, but also the</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>delinking that aims to reverse the epistemicide provoked by Western ways of being and thinking. Oswald de</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>Andrade, who indigenized philosophy and invited us to embrace symbolic thinking, gave us some insights</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>into the seriousness of ritual and play in the search for reconciliation between humanity and nature.</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>Introducing the concept of anthropophagic intelligence, I will present some conceptual tools that, ahead</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>and beyond postcolonial and decolonial thought, aim to overcome desanthropologization through its</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>experiential metaphysics.</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>Given the climate crisis and the challenges posed by a multipolar world, an education that underscores</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>the vital and intrinsic connections between human beings and the physical environment, as well as the</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>diversity of human cultures and collective organization, is imperative.</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>Immersed and, more than ever, reduced to a pure process of computation/commodification, a cybernetic</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>field replaces our symbolic field. Cybernetic applications, computers and intelligent machines, AI -</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>related technologies and the environment necessitate the development of an educational framework that</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>assists citizens in overcoming the consequences of the inequalities and injustices inherent in the logic</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>of the annexation of human capital by big data. The need to break patterns -data created from the past -</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>to build a new world not deterministically dictated by algorithms is more pressing than ever.</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>Western modernity is traversed by opposing orientations of mental action (between the real and the</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>ideal), empiricism and idealism. Therefor 
-              <span style="font-size: 10pt;">e, this demonstrates the historical agency of concrete existence</span>
-            </strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>and that existence is also practical. Would it be possible to overcome the bias of the mathematized</strong>
-          </span>
-        </div>
-        <div style="text-align: left;">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>rationalist legacy when considering the deterministic approach of big data?</strong>
-          </span>
-        </div>
-        <div class="t m0 x1 h3 y2b ff2 fs0 fc0 sc0 ls3 ws1">
-          <span style="font-size: 12pt; font-family: 'courier new', courier, monospace;">
-            <strong>&nbsp;</strong>
-          </span>
-        </div>
-        <div class="t m0 x1 h3 y2c ff2 fs0 fc0 sc0 ls3 ws1">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>&nbsp;</strong>
-          </span>
-        </div>
-        <div class="t m0 x1 h3 y2d ff2 fs0 fc0 sc0 ls3 ws1">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>&nbsp;</strong>
-          </span>
-        </div>
-        <div class="t m0 x1 h3 y2e ff2 fs0 fc0 sc0 ls3 ws1">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>&nbsp;</strong>
-          </span>
-        </div>
-        <div class="t m0 x1 h2 y2f ff2 fs0 fc0 sc0 ls4 ws1">
-          <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-            <strong>iacy.org ©     iacy@iacy.org</strong>
-          </span>
-        </div>
-      </div>
-    </div>
-    <div class="pi" data-data="{&quot;ctm&quot;:[1.000000,0.000000,0.000000,1.000000,0.000000,0.000000]}">
-      <span style="font-size: 10pt; font-family: 'courier new', courier, monospace;">
-        <strong>&nbsp;</strong>
-      </span>
-    </div>
-  </div>
+    </span>
+  </strong>
 </div>
-<div class="loading-indicator">&nbsp;</div>
+<div style="text-align: justify;">
+  <strong>
+    <span style="font-family: courier new, courier, monospace;">Indigenise everything. The Americanization of 
+      <br>the white man. 
+      <br>You will find our Sertão in the Opy’i 
+      <sup>1</sup>
+    </span>
+  </strong>
+</div>
+<div style="text-align: justify;">
+  <strong>
+    <span style="font-family: courier new, courier, monospace;">Our locus mediterraneus is the Amazon.</span>
+  </strong>
+</div>
+<div style="text-align: justify;">
+  <strong>
+    <span style="font-family: courier new, courier, monospace;">Our Eldorado the Terra-Preta.</span>
+  </strong>
+</div>
+<div style="text-align: justify;">
+  <strong>
+    <span style="font-family: courier new, courier, monospace;">Terraforming is not needed where the</span>
+  </strong> 
+  <br>
+  <strong>
+    <span style="font-family: courier new, courier, monospace;">Indigenous walk; they have already made the</span>
+  </strong> 
+  <br>
+  <strong>
+    <span style="font-family: courier new, courier, monospace;">Earth support life. Humanity</span> 
+    <br>
+    <br>
+    <img src="https://share1.cloudhq-mkt3.net/1ab8a7184c1c0d.png" alt="" width="431" height="289"> 
+    <br>
+  </strong> 
+  <span style="font-family: courier new, courier, monospace; font-size: 8pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <strong>
+      <span style="font-family: courier new, courier, monospace;">
+        <sup>1</sup>
+      </span> House of prayer
+    </strong>
+  </span> 
+  <strong>
+    <br>
+    <br>
+    <br>
+    <br>
+    <span style="font-family: courier new, courier, monospace;">i
+      <span style="font-size: 8pt;">acy.org ©&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; iacy@iacy.org</span>
+    </span>
+    <br>
+  </strong>
+</div>
+<style>/*! 
+ * Fancy styles for pdf2htmlEX
+ * Copyright 2012,2013 Lu Wang <coolwanglu@gmail.com> 
+ * https://github.com/pdf2htmlEX/pdf2htmlEX/blob/master/share/LICENSE
+ */@keyframes fadein{from{opacity:0}to{opacity:1}}@-webkit-keyframes fadein{from{opacity:0}to{opacity:1}}@keyframes swing{0{transform:rotate(0)}10%{transform:rotate(0)}90%{transform:rotate(720deg)}100%{transform:rotate(720deg)}}@-webkit-keyframes swing{0{-webkit-transform:rotate(0)}10%{-webkit-transform:rotate(0)}90%{-webkit-transform:rotate(720deg)}100%{-webkit-transform:rotate(720deg)}}@media screen{#sidebar{background-color:#2f3236;background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0IiBoZWlnaHQ9IjQiPgo8cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSI0IiBmaWxsPSIjNDAzYzNmIj48L3JlY3Q+CjxwYXRoIGQ9Ik0wIDBMNCA0Wk00IDBMMCA0WiIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2U9IiMxZTI5MmQiPjwvcGF0aD4KPC9zdmc+")}#outline{font-family:Georgia,Times,"Times New Roman",serif;font-size:13px;margin:2em 1em}#outline ul{padding:0}#outline li{list-style-type:none;margin:1em 0}#outline li>ul{margin-left:1em}#outline a,#outline a:visited,#outline a:hover,#outline a:active{line-height:1.2;color:#e8e8e8;text-overflow:ellipsis;white-space:nowrap;text-decoration:none;display:block;overflow:hidden;outline:0}#outline a:hover{color:#0cf}#page-container{background-color:#9e9e9e;background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjOWU5ZTllIj48L3JlY3Q+CjxwYXRoIGQ9Ik0wIDVMNSAwWk02IDRMNCA2Wk0tMSAxTDEgLTFaIiBzdHJva2U9IiM4ODgiIHN0cm9rZS13aWR0aD0iMSI+PC9wYXRoPgo8L3N2Zz4=");-webkit-transition:left 500ms;transition:left 500ms}.pf{margin:13px auto;box-shadow:1px 1px 3px 1px #333;border-collapse:separate}.pc.opened{-webkit-animation:fadein 100ms;animation:fadein 100ms}.loading-indicator.active{-webkit-animation:swing 1.5s ease-in-out .01s infinite alternate none;animation:swing 1.5s ease-in-out .01s infinite alternate none}.checked{background:no-repeat 
+</div></style>
